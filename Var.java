@@ -7,5 +7,9 @@ public class Var {
 
         float f = 10.0f;
         double d = 10.0;
+        // int, long 자주 사용
+        // 파일은 byte
+        // 실수는 double
+        // 문자열은 String
     }
 }

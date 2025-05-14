@@ -7,5 +7,6 @@ public class Operator {
         // - / % *
         String result1 = "hello " + "world";
         System.out.println(result1);
+        System.out.println(result1 + a);
     }
 }

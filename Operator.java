@@ -8,5 +8,8 @@ public class Operator {
         String result1 = "hello " + "world";
         System.out.println(result1);
         System.out.println(result1 + a);
+
+        int sum1 = 1 + 2 * 3;
+        System.out.println(sum1);
     }
 }
